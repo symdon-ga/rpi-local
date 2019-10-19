@@ -1,5 +1,7 @@
 #+TITLE: Raspberry Pi for local
 
+[[https://user-images.githubusercontent.com/50688746/67141165-d510a000-f29b-11e9-96eb-5595fcc82c8f.gif]]
+
 ** Setup
 
 #+BEGIN_SRC shell
