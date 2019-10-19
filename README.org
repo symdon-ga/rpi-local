@@ -1,0 +1,18 @@
+#+TITLE: Raspberry Pi for local
+
+** Setup
+
+#+BEGIN_SRC shell
+make all
+#+END_SRC
+
+** Start
+
+#+BEGIN_SRC shell
+foreman start
+#+END_SRC
+
+** Dependencies
+
+- Foreman: https://github.com/ddollar/foreman
+- Qemu: https://www.qemu.org/
